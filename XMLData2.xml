@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <MyDataset>
     <Record>
         <Number>1</Number>
@@ -19,4 +20,27 @@
         <String>Third</String>
         <Boolean>True</Boolean>
     </Record>
+=======
+<MyDataset>
+    <Record>
+        <Number>1</Number>
+        <String>First</String>
+        <Boolean>True</Boolean>
+    </Record>
+    <Record>
+        <Number>2</Number>
+        <String>Second</String>
+        <Boolean>False</Boolean>
+    </Record>
+    <Record>
+        <Number>3</Number>
+        <String>Third</String>
+        <Boolean>True</Boolean>
+    </Record>
+	<Record>
+        <Number>3</Number>
+        <String>Third</String>
+        <Boolean>True</Boolean>
+    </Record>
+>>>>>>> 149a6cdb21f90503efa8b2cbd7f6c46f3f891932
 </MyDataset>

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Color	Value
 Red	1
 Orange	2
@@ -6,4 +7,14 @@ Green	4
 Blue	5
 Purple	6
 Black	7
+=======
+Color	Value
+Red	1
+Orange	2
+Yellow	3
+Green	4
+Blue	5
+Purple	6
+Black	7
+>>>>>>> 149a6cdb21f90503efa8b2cbd7f6c46f3f891932
 White	8
